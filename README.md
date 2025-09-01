@@ -59,6 +59,7 @@ Usage
 
 /illegalitems scan [radius] – Scans a player’s surrounding area and inventory for illegal items.
 
-Contributing
+License
 
-Feel free to fork and contribute! Please ensure you do not remove the bypass feature if it’s intended for testing or trusted players.
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
