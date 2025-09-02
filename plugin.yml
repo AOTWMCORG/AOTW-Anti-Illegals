@@ -1,0 +1,5 @@
+name: IllegalItemsPlugin
+version: 1.0
+main: com.example.illegalitems.IllegalItemsPlugin
+api-version: 1.19
+description: Prevents illegal items and grants perks to trusted players.

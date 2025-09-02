@@ -1,0 +1,10 @@
+banned-items:
+  - BEDROCK
+  - COMMAND_BLOCK
+  - BARRIER
+  - STRUCTURE_BLOCK
+
+trusted-players:
+  - Uptightplum
+  - Sl1nkmc
+  - LPlaysGames
