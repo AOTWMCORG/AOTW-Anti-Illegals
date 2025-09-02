@@ -49,7 +49,7 @@ bypass-players: List of player names who will bypass the illegal item detection.
 
 Other settings include max enchantment levels and max stack sizes.
 
-
+source code is available
 
 
 This project is licensed under the MIT License – see the LICENSE
