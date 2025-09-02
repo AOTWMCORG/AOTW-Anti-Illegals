@@ -49,17 +49,8 @@ bypass-players: List of player names who will bypass the illegal item detection.
 
 Other settings include max enchantment levels and max stack sizes.
 
-Permissions
 
-illegalitems.admin – Full access to reload the plugin or trigger scans.
 
-Usage
-
-/illegalitems reload – Reloads the configuration without restarting the server.
-
-/illegalitems scan [radius] – Scans a player’s surrounding area and inventory for illegal items.
-
-License
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
