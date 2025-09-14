@@ -51,6 +51,8 @@ Other settings include max enchantment levels and max stack sizes.
 
 source code is available
 
+DO NOTE that this config only blocks some blocks by default. Add more in config.yml
+
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
